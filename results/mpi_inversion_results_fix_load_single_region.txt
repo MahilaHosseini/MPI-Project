@@ -1,16 +1,18 @@
 MPI Results Summary
 -------------------
 Running with np=2:
+Matrix inversion completed successfully.
+Total time taken: 1.06391 seconds.
 -------------------
 Running with np=4:
 Matrix inversion completed successfully.
-Total time taken: 0.91867 seconds.
+Total time taken: 0.9436 seconds.
 -------------------
 Running with np=8:
 Matrix inversion completed successfully.
-Total time taken: 1.32317 seconds.
+Total time taken: 1.34828 seconds.
 -------------------
 Running with np=16:
 Matrix inversion completed successfully.
-Total time taken: 69.8034 seconds.
+Total time taken: 112.437 seconds.
 -------------------
