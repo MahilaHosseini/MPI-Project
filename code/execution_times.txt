@@ -1,0 +1,5 @@
+Serial Multiplication: 79.3428 seconds
+MPI Multiplication: 24.0456 seconds
+MPI Matrix Inversion: 0.199806 seconds
+Serial Inversion: 0.0365383 seconds
+MPI Multiplication: 92.0858 seconds
