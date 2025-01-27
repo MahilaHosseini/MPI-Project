@@ -1,9 +1,9 @@
 inversionRun.sh is fix size matrix run over increasing number of cores on VMs in single region
-inversionRun2.sh is increasing size matrix run over increasing number of cores (fix load ratio) on VMs in single region
-inversionRun3.sh is fix size matrix run over increasing number of cores on VMs in different region
+inversionRun2.sh is fix size matrix run over increasing number of cores on VMs in different region
+inversionRun3.sh is increasing size matrix run over increasing number of cores (fix load ratio) on VMs in single region
 inversionRun4.sh is increasing size matrix run over increasing number of cores (fix load ratio) on VMs in different region
 multiplicationRun.sh is fix size matrix run over increasing number of cores on VMs in single region
-multiplicationRun2.sh is increasing size matrix run over increasing number of cores (fix load ratio) on VMs in single region
-multiplicationRun3.sh is fix size matrix run over increasing number of cores on VMs in different region
+multiplicationRun2.sh is fix size matrix run over increasing number of cores on VMs in different region
+multiplicationRun3.sh is increasing size matrix run over increasing number of cores (fix load ratio) on VMs in single region
 multiplicationRun4.sh is increasing size matrix run over increasing number of cores (fix load ratio) on VMs in different region
 
