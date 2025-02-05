@@ -1,5 +1,11 @@
-Serial Multiplication: 79.3428 seconds
-MPI Multiplication: 24.0456 seconds
-MPI Matrix Inversion: 0.199806 seconds
-Serial Inversion: 0.0365383 seconds
-MPI Multiplication: 92.0858 seconds
+Serial Multiplication: 8.35007 seconds, Matrix size: 1024
+Serial Multiplication: 1.00479 seconds, Matrix size: 512
+Serial Multiplication: 81.8249 seconds, Matrix size: 2048
+Serial Multiplication: 735.794 seconds, Matrix size: 4096
+Serial Inversion: 13.4858 seconds seconds, Matrix size: 1024
+Serial Inversion: 13.6221 seconds seconds, Matrix size: 1024
+Serial Inversion: 110.048 seconds seconds, Matrix size: 2048
+Serial Inversion: 918.142 seconds seconds, Matrix size: 4096
+Serial Multiplication: 8.04998 seconds, Matrix size: 1024
+Serial Multiplication: 0.961574 seconds, Matrix size: 512
+Serial Inversion: 14.0079 seconds seconds, Matrix size: 1024
